@@ -7,7 +7,7 @@ I aim to explore the 'aesthetic of convergence,' which centers around the idea o
 
 Through this exploration, I aim to contribute to a deeper comprehension of the interplay between artistic expression, commercial interests, and societal trends in the context of the modern music industry.
 
-# understanding features of a song in Spotify Dataset
+# Understanding features of a song in Spotify Dataset
 
 Instrumentalness: This value represents the amount of vocals in the song. The closer it is to 1.0, the more instrumental the song is.
 
